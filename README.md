@@ -106,4 +106,4 @@ The dataset is **fictional and generated** – no real patients or doctors. Five
 Appointments run from January 2020 to December 2023.
 
 ## Team
-Safaa Azaioui · Reqaya Ghandour · Oluwatomisin Oladitan · Amneet Kaur Singh · Semhal Tadese
+This was a group project
